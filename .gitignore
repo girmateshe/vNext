@@ -1,0 +1,19 @@
+/bin
+/Common/bin/
+*.dll
+/Common/bin/Debug/Common.dll
+*.user
+*.cache
+
+ Policy.Pet.Models/bin/
+ Policy.Pet.Models/obj/
+ Policy.Pet.Provider/bin/
+ Policy.Pet.Provider/obj/
+ Policy.Pet.Tests/bin/
+ Policy.Pet.Tests/obj/
+ Policy.Pet/bin/
+ Policy.Pet/obj/
+ Policy.Pets.IntegrationTests/bin/
+ Policy.Pets.IntegrationTests/obj/
+
+

@@ -1,0 +1,4 @@
+C:\dev\workspace\PetsInsurance\Policy.Pet.Models\bin\Debug\Policy.Pets.Models.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Models\bin\Debug\Policy.Pets.Models.pdb
+C:\dev\workspace\PetsInsurance\Policy.Pet.Models\obj\Debug\Policy.Pets.Models.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Models\obj\Debug\Policy.Pets.Models.pdb

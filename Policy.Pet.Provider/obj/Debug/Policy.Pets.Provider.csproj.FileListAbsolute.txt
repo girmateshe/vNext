@@ -1,0 +1,11 @@
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Policy.Pets.Provider.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Policy.Pets.Provider.pdb
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Common.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Policy.Pets.Models.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Newtonsoft.Json.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Common.pdb
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Policy.Pets.Models.pdb
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\bin\Debug\Newtonsoft.Json.xml
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\obj\Debug\Policy.Pets.Provider.csprojResolveAssemblyReference.cache
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\obj\Debug\Policy.Pets.Provider.dll
+C:\dev\workspace\PetsInsurance\Policy.Pet.Provider\obj\Debug\Policy.Pets.Provider.pdb
